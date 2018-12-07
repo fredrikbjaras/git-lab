@@ -3,6 +3,7 @@ package tree;
 //Changes
 //Look at my changes!
 //A change
+//Second change
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
