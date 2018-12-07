@@ -4,6 +4,7 @@ package tree;
 //Look at my changes!
 //A change
 //Second change
+//Volatile experiment...might explode
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
