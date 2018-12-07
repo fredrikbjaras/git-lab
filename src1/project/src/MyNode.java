@@ -2,7 +2,7 @@ package tree;
 //Merge this biatch!
 //Changes
 //Look at my changes!
-
+//A change
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
